@@ -1,0 +1,28 @@
+.rel {
+	position: relative;
+}
+
+.browser-desk {
+	margin: 40px 0;
+}
+
+.desktop img, .screenshot img {
+	width: 100%;
+}
+
+.browser-desk .screenshot {
+	left: 4.1%;
+	width: 91.8%;
+	top: 5.2%;
+	height: 64.22%;
+}
+
+.screenshot {
+	position: absolute;
+	overflow: scroll;
+}
+.screenshot img {
+	margin: auto;
+	height: auto;
+	display: block;
+}

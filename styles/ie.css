@@ -1,0 +1,9 @@
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+	.site-wrap {
+		background-attachment: scroll!important;
+	}
+	.gallery-img img:hover {
+		transform: none!important;
+		transition: none!important;
+	} 
+}
